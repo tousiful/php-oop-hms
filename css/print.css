@@ -1,0 +1,25 @@
+title{
+	display:none !important ;
+}
+.top_nav{
+		display:none !important;
+}
+footer{
+	display:none !important;
+}
+.left_col{
+		display:none !important;
+}
+.no-print{
+	display:none !important;
+}
+
+.print_col{
+	width:100% !important; 
+}
+.address_print{
+	margin-left:300px;
+}
+.receipt_print{
+	margin-left:500px;
+}
